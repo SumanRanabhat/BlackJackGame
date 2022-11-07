@@ -22,7 +22,7 @@ p
    font-style: italic;
   
 }
-//button
+button
 {
       color: red;
    font-style: italic;
@@ -31,4 +31,4 @@ p
    padding-bottom: 5px;
    border: none;
    border-radius: 2px;
-}*/
+}
